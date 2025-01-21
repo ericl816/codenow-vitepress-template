@@ -1,4 +1,4 @@
-# VitePress 💙 StackBlitz
+# VitePress 💙 CodeNow AI
 
 Hi there :wave: This is a demo running VitePress within your **browser tab**!
 
